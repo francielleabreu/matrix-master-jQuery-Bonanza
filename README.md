@@ -5,7 +5,7 @@
     <meta charset="UTF-8">
 </head>
 <body>
-    <h1>jQuery Bonanza Assignment</h1>
+    <h1>jQuery Bonanza</h1>
     <p>This is a web project developed as part of the Matrix Master Bootcamp in Rotterdam, the Netherlands. The goal of this project is when the first button is clicked the text fades out, the second button append some text and the third button  change the text color to red.</p>
     <h2>Visit the Project</h2>
     <p>Check out the project in action at: <a href="https://francielleabreu.github.io/matrix-master-jquery-bonanza/">jQuery Bonanza</a></p>
